@@ -34,10 +34,7 @@ session_start();
 		<div class="authorInfo">
 			<p><span>Ime:</span> Filip</p>
 			<p><span>Prezime:</span>Magić</p>
-			<p><span>Broj indeksa:</span>46272/17-R</p>
-			<p><span>E-mail:</span> fmagic@foi.hr</p>
-			<p><span>Centar:</span> Varaždin</p>
-			<p><span>Godina:</span> 2019/2020</p>
+			<p><span>E-mail:</span> filipmagic98@gmail.com</p>
 		</div>
 	</div>
 	
